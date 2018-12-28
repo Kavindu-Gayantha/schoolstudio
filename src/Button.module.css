@@ -1,0 +1,18 @@
+.Button {
+    border: 0;
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    color:black;
+    background: yellow;
+    cursor: pointer;
+}
+
+.error {
+    border: 0;
+    width:120px;
+    height:120px;
+    border-radius: 50%;
+    background-color: red;
+    cursor: pointer;
+  }
